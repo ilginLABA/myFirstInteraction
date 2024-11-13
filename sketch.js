@@ -9,7 +9,7 @@ let comebackSpeed = 100;//// lower the number less interaction
 let dia = 50;///diameter of interaction
 let randomPos = true;////starting points
 let pointsDirection = "general";///left right up down general 
-let interactionDirection = -1;//// -1 and 1
+let interactionDirection = 1;//// -1 and 1
 
 let textPoints = [];
 
